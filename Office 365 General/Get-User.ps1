@@ -1,0 +1,1 @@
+Get-User | Select UserPrincipalName, RecipientType, RecipientTypeDetails | Format-Table -Wrap 

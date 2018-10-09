@@ -1,0 +1,1 @@
+Add-RecipientPermission jeff.collins -AccessRights SendAs -Trustee james@domain.com

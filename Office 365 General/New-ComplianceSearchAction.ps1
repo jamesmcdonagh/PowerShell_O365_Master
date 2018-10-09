@@ -1,0 +1,1 @@
+New-ComplianceSearchAction -SearchName "PowerShell Office 365 Book" -Preview | Select results |Format-Table -Wrap  

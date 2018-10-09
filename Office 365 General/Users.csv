@@ -1,0 +1,5 @@
+Action,Email,FirstName,LastName,Title,Department,Manager,OfficePhone,MobilePhone,City,State,ZIP,CountryCode
+NEW,user1@statera.com,Mary,Wright,Event Planner,Marketing,vanessa@office365powershell.ca,(123)456-7908,(514)123-4567,Honolulu,Hawaii,96816,US
+NEW,user2@statera.com,Sam,Dion,Line Worker,Manufacturing,vlad-admin@office365powershell.ca,(123)094-0234,(450)405-1234,Chicago,Illinois,60007,US
+UPDATE,user3@statera.com,,,Sales Manager,Sales, john@office365powershell.ca,,,,,,
+UPDATE,user4@statera.com,,,Marketing Manager,Marketing,Jonathan@office365powershell.ca,,,Montreal,Quebec,H0H 0H0,CA

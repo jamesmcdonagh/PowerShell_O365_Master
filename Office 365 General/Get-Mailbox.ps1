@@ -1,0 +1,1 @@
+Get-Mailbox | Select DisplayName,  RecipientTypeDetails,ProhibitSendReceiveQuota | Format-Table –autosize 

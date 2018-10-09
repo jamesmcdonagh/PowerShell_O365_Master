@@ -1,0 +1,1 @@
+Get-AzureADUser -ObjectId jeff@office365powershell.ca | Format-List  

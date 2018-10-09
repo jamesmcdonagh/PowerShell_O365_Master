@@ -1,0 +1,1 @@
+Get-SPOSite | Select Url, Title, Template 

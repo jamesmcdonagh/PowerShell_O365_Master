@@ -1,0 +1,1 @@
+Set-CsUser -Identity <user>@<Domain> -AudioVideoDisabled $true

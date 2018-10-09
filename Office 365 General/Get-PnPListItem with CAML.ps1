@@ -1,0 +1,1 @@
+Get-PnPListItem -List "New Users" -Query "<View><Query><Where><Eq><FieldRef Name='Processed'/><Value Type='Boolean'>0</Value></Eq></Where></Query></View>" 
