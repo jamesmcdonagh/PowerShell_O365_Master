@@ -1,0 +1,1 @@
+﻿Dir -Directory -Recurse | Rename-Item –NewName { $_.name –replace “ “,”_” }
